@@ -150,28 +150,6 @@ The key principles are:
 Encapsulation which means bundling data and methods into single unit i.e. objects.
 
 
-## Inheritance
-We have generalization and specialization
-Parent and children
-
-Generalization contain superclass and subclass while specialization is achieved using interfaces.
-
-Inheritance is a process of acquiring the feature of an existing class into a new class.
-NB: Class have properties and methods.
-
-"Extend" is a keyword use for inheritance in java.
-"this" is use inside the class only. The same method is called but upon different object.
-        this.length = length
-        this.breadth = breath
-
-"super" is a reference to a super class.
-there is super class constructor.
-
-Method overriding: Is redefining a method of super class in a subclass.
-
-Abstract classes: You can't create object of abstract class but reference is allowed.
-
-
 
 
 
