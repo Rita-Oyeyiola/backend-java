@@ -162,7 +162,7 @@ NB: Class have properties and methods.
 "Extend" is a keyword use for inheritance in java.
 "this" is use inside the class only. The same method is called but upon different object.
         this.length = length
-        this.breadth = breath
+        this.breath = breath
 
 "super" is a reference to a super class.
 there is super class constructor.
@@ -171,7 +171,13 @@ Method overriding: Is redefining a method of super class in a subclass.
 
 Abstract classes: You can't create object of abstract class but reference is allowed.
 
+There are two types of class:
+- Abstract class
+- Concrete class
 
+"super" is from abstract class.
+Abstract classes are useful for defining and imposing standards.
+You cannot make abstract class final and static.
 
 
 
